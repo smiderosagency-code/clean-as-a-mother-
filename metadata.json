@@ -1,0 +1,8 @@
+{
+  "name": "Clean as a Mother | Premium OKC Cleaning Services",
+  "description": "Thoughtful residential routine cleaning, deep cleaning, and commercial cleaning for the Oklahoma City metropolitan area. Locally founded by Shade Jonas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
